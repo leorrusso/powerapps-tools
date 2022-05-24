@@ -3,7 +3,7 @@
   "palette": [
     {
       "name": "ScreenBkgColor",
-      "value": "RGBA(255,255,255,1)",
+      "value": "RGBA(0,0,0,1)",
       "type": "c"
     },
     {
